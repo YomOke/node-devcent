@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey": "123456",
+    "port": 3006,
+    "db": "mongodb://localhost:27017/node-devcent"
+}

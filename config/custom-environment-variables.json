@@ -1,0 +1,6 @@
+{
+    "jwtPrivateKey": "JWT_SECRET",
+    "db": "MONGO_URI",
+    "env": "NODE_ENV",
+    "port": "PORT"
+}
